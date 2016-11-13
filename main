@@ -1,0 +1,12 @@
+{
+  "name": "web",
+  "active": true,
+  "events": [
+    "push",
+    "pull_request"
+  ],
+  "config": {
+    "url": "https://wit.ai/hibaganta",
+    "content_type": "json"
+  }
+}
