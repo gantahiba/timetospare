@@ -6,7 +6,7 @@
     "pull_request"
   ],
   "config": {
-    "url": "https://wit.ai/hibaganta",
+    "url": "https://api.wit.ai/message?v=20161113&q=",
     "content_type": "json"
   }
 }
