@@ -10,3 +10,7 @@
     "content_type": "json"
   }
 }
+
+curl \
+  -H 'Authorization: Bearer QF2Y7RKKK6RFRNV7GYL3G2ISB6CCH4QT' \
+  'https://api.wit.ai/message?v=20161113&q='
